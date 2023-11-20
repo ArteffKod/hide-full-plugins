@@ -27,5 +27,6 @@ There are several clients that use these methods, e.g.: [MeteorClient](https://m
 A developer created an [plugin](https://www.spigotmc.org/resources/plugin-hide-1-16-1-20-hide-plugins-from-hacked-clients.112271/) specifically against the meteor client that helps hide plugins
 The plugin can log packets sent by meteor clients, so you can see if someone tries to use the methods
 
-![image](https://github.com/ArteffKod/hide-full-plugins/assets/68272364/93e8488d-7067-44bc-8915-d03826d15007)
+![image](https://github.com/ArteffKod/hide-full-plugins/assets/68272364/93e8488d-7067-44bc-8915-d03826d15007) ![image](https://github.com/ArteffKod/hide-full-plugins/assets/68272364/2ef035e8-f372-4c92-9374-dd8863d08c1c)
+
 
