@@ -1,4 +1,4 @@
-# How to completely hide the plugins from hackers
+# How to completely hide the plugins from hackers your minecraft servers
 If you need further help, you can get it here: [My discord server](https://dc.gleaks.pro/)
 
 There are 4 ways to view plugins:
