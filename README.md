@@ -4,10 +4,10 @@ SOON BY ARTEFFKODS
 
 There are 4 ways to view plugins:
 
-- 1. Commands method: `/pl` `/bukkit:pl` etc.
-- 2. Tab method: `/ver [TAB]` `/about <TAB>`
-- 3. TAB method: [TAB]:{commands}
-- 4. Query plugins method: `bukkit.yml`
+1. Commands method: `/pl` `/bukkit:pl` etc.
+2. Tab method: `/ver [TAB]` `/about <TAB>`
+3. TAB method: [TAB]:{commands}
+4. Query plugins method: `bukkit.yml`
 
 ![image](https://github.com/ArteffKod/hide-full-plugins/assets/68272364/3f2e6981-7cea-4336-8a02-f3c8ccd0a457)
 
