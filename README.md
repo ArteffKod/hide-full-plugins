@@ -3,7 +3,7 @@
 There are 4 ways to view plugins:
 
 1. Commands method: `/pl` `/bukkit:pl` etc.
-2. Tab method: `/ver [TAB]` `/about <TAB>`
+2. Tab method: `/ver [TAB]` `/about <TAB>` etc.
 3. TAB method: [TAB]:{commands}
 4. Query plugins method: `bukkit.yml`
 
